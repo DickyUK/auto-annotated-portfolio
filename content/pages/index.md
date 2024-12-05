@@ -80,13 +80,6 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
         - type: TextFormControl
           name: Organisation
           label: Name
@@ -94,6 +87,13 @@ sections:
           placeholder: Your name
           width: full
           isRequired: false
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: 1/2
+          type: EmailFormControl
         - name: address
           label: Address
           hideLabel: true
