@@ -84,7 +84,7 @@ sections:
           name: Organisation
           label: Organisation
           hideLabel: false
-          placeholder: Your name
+          placeholder: Your school / business
           width: full
           isRequired: false
         - name: email
