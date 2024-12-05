@@ -31,6 +31,14 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
