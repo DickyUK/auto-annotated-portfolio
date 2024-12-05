@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Welcome to Punkworx
     subtitle: >-
       Our vision is to inspire and equip the next generation to embrace
       environmental sustainability through hands-on innovation, transforming
