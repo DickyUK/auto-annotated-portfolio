@@ -82,7 +82,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: Organisation
-          label: Name
+          label: Organisation
           hideLabel: false
           placeholder: Your name
           width: full
