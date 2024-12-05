@@ -19,9 +19,17 @@ sections:
       electronic waste into creative solutions preserving biodiversity, empower
       communities, and promote a circular economy.”
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Our mission is to address the growing problem of electronic waste and
+      product obsolescence by engaging young people in the repair and
+      repurposing of vintage technology. Through free talks, multi-disciplinary
+      projects, and open-source methods, we foster skills in innovation,
+      sustainability, and vocational training. Our approach links learning
+      across subjects, from coding and materials science to ethics and
+      geography, while promoting repairability and circular design. By
+      transforming outdated devices into functional, modern technology, we not
+      only reduce waste but also fund educational programs and provide students,
+      especially those at risk of exclusion, with practical, accredited skills
+      for the future.
     styles:
       self:
         height: auto
