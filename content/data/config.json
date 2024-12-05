@@ -70,7 +70,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "07894 718300",
+            "phoneNumber": "+44(0)7894 718300",
             "phoneAltText": "My phone number",
             "email": "contact@punkworx.org.uk",
             "emailAltText": "My email",
