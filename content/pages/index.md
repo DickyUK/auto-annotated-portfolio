@@ -83,7 +83,7 @@ sections:
         - type: TextFormControl
           name: Organisation
           label: Organisation
-          hideLabel: false
+          hideLabel: true
           placeholder: Your school / business
           width: full
           isRequired: false
