@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Our vision is to inspire and equip the next generation to embrace
-      environmental sustainability through hands-on innovation, transforming
-      electronic waste into creative solutions preserving biodiversity, empower
-      communities, and promote a circular economy.”
+    title: ''
     subtitle: ''
     styles:
       self:
