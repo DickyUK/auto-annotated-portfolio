@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 68
+  opacity: 86
   url: /images/background RPX.png
 sections:
   - elementId: ''
