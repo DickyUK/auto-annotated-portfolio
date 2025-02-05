@@ -47,16 +47,15 @@ sections:
     actions: []
     text: >
       Our mission is to address the growing problem of electronic waste and
-      product obsolescence by engaging young people in the repair and
-      repurposing of vintage technology. Through free talks, multi-disciplinary
-      projects, and open-source methods, we foster skills in innovation,
-      sustainability, and vocational training. Our approach links learning
-      across subjects, from coding and materials science to ethics and
-      geography, while promoting repairability and circular design. By
-      transforming outdated devices into functional, modern technology, we not
-      only reduce waste but also fund educational programs and provide students,
-      especially those at risk of exclusion, with practical, accredited skills
-      for the future.
+      product obsolescence by engaging young people in repairing and repurposing
+      vintage technology. Through free talks, multi-disciplinary projects, and
+      open-source methods, we foster innovation, sustainability, and vocational
+      training skills. Our approach links learning across subjects, from coding
+      and materials science to ethics and geography, while promoting
+      repairability and circular design. By transforming outdated devices into
+      functional, modern technology, we reduce waste, fund educational programs,
+      and provide students, especially those at risk of exclusion, with
+      practical, accredited skills for the future.
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
